@@ -84,6 +84,9 @@
                 <div class="title m-b-md">
                     Computer 1 did something new!
                 </div>
+                <div class="title m-b-md">
+                    Computer 2 new Model Post and new Migration!
+                </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
