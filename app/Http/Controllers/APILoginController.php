@@ -31,4 +31,5 @@ class APILoginController extends Controller
         }
         return response()->json(compact('token'));
     }
+    
 }
