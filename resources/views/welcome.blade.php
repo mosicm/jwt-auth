@@ -82,7 +82,7 @@
                     JWT Authentication
                 </div>
                 <div class="title m-b-md">
-                    Hello from Test branch
+                    Hello from Test branch.
                 </div>
                 <div class="title m-b-md">
                     Computer 1 did something new...
