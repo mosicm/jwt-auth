@@ -16,7 +16,7 @@
                 background-color: #999;
                 color: #fff;
                 font-family: 'Raleway', sans-serif;
-                font-weight: 100;
+                font-weight: 200;
                 height: 100vh;
                 margin: 0;
             }
@@ -82,10 +82,10 @@
                     JWT Authentication
                 </div>
                 <div class="title m-b-md">
-                    Hello from Master branch.
+                    Hello from Test branch.
                 </div>
                 <div class="title m-b-md">
-                    Computer 1 did something new!!!
+                    Computer 1 did something new...
                 </div>
                 <div class="title m-b-md">
                     Computer 2 new Model Post and new Migration!
