@@ -91,7 +91,7 @@
                     Computer 2 old Model Post and old Migration!
                 </div>
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation test</a>
+                    <a href="https://laravel.com/docs">Documentation masters</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
