@@ -88,7 +88,7 @@
                     Computer 1 did something new...
                 </div>
                 <div class="title m-b-md">
-                    Computer 3 new Model Post and new Migration!
+                    Computer 2 old Model Post and old Migration!
                 </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
