@@ -85,7 +85,7 @@
                     Hello from Test branch
                 </div>
                 <div class="title m-b-md">
-                    Computer 1 did something new!
+                    Computer 1 did something new!!!
                 </div>
                 <div class="title m-b-md">
                     Computer 2 new Model Post and new Migration!
