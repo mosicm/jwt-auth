@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel JWT Authentication
+                    Laravel JWT
                 </div>
                 <div class="title m-b-md">
                     Hello from Test branch
