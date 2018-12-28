@@ -6,6 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Album extends Model
 {
-    public $name;
-    public $title;
+    protected $fillable = ['name', 'release_year'];
 }
